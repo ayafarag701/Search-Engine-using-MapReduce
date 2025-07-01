@@ -16,10 +16,6 @@ This project is a simple **search engine** implemented using **Java MapReduce** 
    * Java application takes the preprocessed output.
    * Accepts search keywords and returns relevant document names.
 
-### 📂 Folder Structure:
-
-* `MapReducePart/` → contains the MapReduce code (to run on Cloudera).
-* `QueryEngine/` → contains the code that performs search based on the output file.
 
 ### ▶️ How to run:
 
